@@ -1,0 +1,11 @@
+C:\Users\dyu\source\repos\test1013\test1013\bin\Debug\netcoreapp2.2\test1013.deps.json
+C:\Users\dyu\source\repos\test1013\test1013\bin\Debug\netcoreapp2.2\test1013.runtimeconfig.json
+C:\Users\dyu\source\repos\test1013\test1013\bin\Debug\netcoreapp2.2\test1013.runtimeconfig.dev.json
+C:\Users\dyu\source\repos\test1013\test1013\bin\Debug\netcoreapp2.2\test1013.dll
+C:\Users\dyu\source\repos\test1013\test1013\bin\Debug\netcoreapp2.2\test1013.pdb
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.csprojAssemblyReference.cache
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.csproj.CoreCompileInputs.cache
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.AssemblyInfoInputs.cache
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.AssemblyInfo.cs
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.dll
+C:\Users\dyu\source\repos\test1013\test1013\obj\Debug\netcoreapp2.2\test1013.pdb

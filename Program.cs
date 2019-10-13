@@ -7,6 +7,7 @@ namespace test1013
         static void Main(string[] args)
         {
             Console.WriteLine("Hello test1013!");
+            Console.ReadKey();
         }
     }
 }
