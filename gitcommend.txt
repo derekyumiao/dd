@@ -1,0 +1,14 @@
+git config --global user.name 'boss'
+git config --global user.email '11251@qq.com'
+git config -l
+#connect to github: git path
+git init
+git remote add origin https://github.com/derekyumiao/tt.git
+#go through files
+git status
+
+git add *
+git commit -m 'first_commit'
+git push -u origin master
+
+https://sspai.com/post/46061
